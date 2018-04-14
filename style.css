@@ -131,7 +131,7 @@ header a {
 
 .my_green {
   /* this sets the background colour of the coloured header. */
-  background: url(images/CRACKIN.JPG);
+  background: url(images/crackin.JPG);
   background-size: cover;
   background-attachment: fixed;
 }
