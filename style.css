@@ -143,10 +143,9 @@ header a {
 }
 
 .breweries {
-  background: url(images/breweries.pdf;
+  background: url(images/brews.pdf;
   background-size: cover;
   background-attachment: fixed;
-    width: 100% !important;
 }
 /* These are the background images defined in example.html */
 
