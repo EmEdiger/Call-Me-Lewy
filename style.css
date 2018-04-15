@@ -142,10 +142,12 @@ header a {
   background-attachment: fixed;
 }
 
-.breweries {
-  background: url(images/brews.jpg;
+.brews {
+  background: url(images/brews.jpg) no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  width: 100% !important;
+}
 }
 /* These are the background images defined in example.html */
 
